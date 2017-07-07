@@ -1,0 +1,2 @@
+# pages
+Getting index pages
